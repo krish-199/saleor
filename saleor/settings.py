@@ -67,7 +67,7 @@ DATABASES = {
 }
 
 
-TIME_ZONE = "India Standard Time"
+TIME_ZONE = "Asia/Calcutta"
 LANGUAGE_CODE = "en"
 LANGUAGES = [
     ("ar", "Arabic"),
